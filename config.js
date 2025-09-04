@@ -49,7 +49,7 @@ OWNER_NAME: process.env.OWNER_NAME || "SALEEM-MD Official",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 SALEEM-MD*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/yj7zp0.png",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/8CQp6Z15/IMG-20250904-WA0334.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> I'm alive*SALEEM-MD*🇵🇰",
 // add alive msg here 
@@ -59,7 +59,7 @@ AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
 ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words  
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
 ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
 // make anti link true,false for groups 
